@@ -1,0 +1,18 @@
+body {
+  background-image: url(backg.png);
+  background-repeat: repeat;
+  width: 70%;
+max-width: 50%;
+margin: auto;
+
+font-family: sans-serif;
+color: white;
+}
+
+.first-name {text-align: center;
+}
+.segundo-nome {
+  text-align: center;
+  margin: 0;
+
+}
